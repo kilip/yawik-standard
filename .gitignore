@@ -1,0 +1,15 @@
+.vagrant/
+vendor/
+config/development.config.php
+data/cache/*
+!data/cache/.gitkeep
+phpunit.xml
+composer.phar
+phing.phar
+node_modules
+public/app
+
+build
+components
+vendor
+node_modules

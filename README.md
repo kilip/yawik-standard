@@ -1,0 +1,1 @@
+# YAWIK standard application
